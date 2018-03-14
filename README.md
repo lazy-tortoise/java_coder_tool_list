@@ -1,15 +1,15 @@
 # java_coder_tool_list
 Java程序员开发参考资源 java coder tool list
 
-构建
+构建  
 
 这里搜集了用来构建应用程序的工具。  
 
 Apache Maven：Maven使用声明进行构建并进行依赖管理，偏向于使用约定而不是配置进行构建。Maven优于Apache Ant。后者采用了一种过程化的方式进行配置，所以维护起来相当困难。  
 
-Gradle：Gradle采用增量构建。Gradle通过Groovy编程而不是传统的XML声明进行配置。Gradle可以很好地配合Maven进行依赖管理，并且把Ant脚本当作头等公民。
-字节码操作  
+Gradle：Gradle采用增量构建。Gradle通过Groovy编程而不是传统的XML声明进行配置。Gradle可以很好地配合Maven进行依赖管理，并且把Ant脚本当作头等公民。   
 
+字节码操作    
 
 编程操作Java字节码的函数库。
 ASM：通用底层字节码操作及分析。
